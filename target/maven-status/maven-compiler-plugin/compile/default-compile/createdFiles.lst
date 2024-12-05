@@ -1,3 +1,6 @@
-com\mycompany\mysystem\DateConverter.class
-com\mycompany\mysystem\IndexAction.class
-com\mycompany\mysystem\HelloWorldAction.class
+com/mycompany/mysystem/HelloWorldAction.class
+com/mycompany/mysystem/services/Service.class
+com/mycompany/mysystem/IndexAction.class
+com/mycompany/mysystem/DateConverter.class
+com/mycompany/mysystem/services/ServiceImpl.class
+com/mycompany/mysystem/PageAction.class
